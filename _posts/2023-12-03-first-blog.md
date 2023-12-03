@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Setting Up Your GitHub Pages Site at the Root URL of Your Organization"
-date: 2023-12-04
-categories: GitHub Pages Web Development
-tags: ["Jekyll"]
+date: 2023-12-03
+categories: Blog
+tags: ["Jekyll", "GitHub", "Static Site"]
 ---
 
 # Setting Up Your GitHub Pages Site at the Root URL of Your Organization
