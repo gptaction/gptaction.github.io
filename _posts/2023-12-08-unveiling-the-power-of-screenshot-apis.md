@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unveiling the Power of Screenshot APIs: Tools for Seamless Website Captures
+title: Unveiling the Power of Screenshot APIs, Tools for Seamless Website Captures
 date: 2023-12-09
 categories: APIs
 tags: [Screenshot API, Web Tools, Automation]
