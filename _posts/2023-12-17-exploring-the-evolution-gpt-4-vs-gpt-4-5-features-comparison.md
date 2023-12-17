@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exploring the Evolution: GPT-4 vs GPT-4.5 Features Comparison
+title: "Exploring the Evolution: GPT-4 vs GPT-4.5 Features Comparison"
 date: 2023-12-17
 categories: [AI Technology, Model Updates]
 tags: [GPT-4, GPT-4.5, AI Innovations]
